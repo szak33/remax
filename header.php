@@ -99,7 +99,7 @@
 
                         <div class="collapse navbar-collapse sub-menu-bar" id="navbarTwo">
                             <ul class="navbar-nav ml-auto">
-                                <li class="nav-item active"><a href="#main-top">Főoldal</a></li>
+                                <li class="nav-item active"><a href="index.php">Főoldal</a></li>
                                 <li class="nav-item"><a href="index.php#search" class="page-scroll">Termékkereső</a></li>
                                 <li class="nav-item"><a href="index.php#about" class="page-scroll">Cégünkről</a></li>
                                 <li class="nav-item"><a href="index.php#services" class="page-scroll">Szolgáltatások</a></li>
