@@ -103,7 +103,7 @@
                                 <li class="nav-item"><a href="index.php#search" class="page-scroll">Termékkereső</a></li>
                                 <li class="nav-item"><a href="index.php#about" class="page-scroll">Cégünkről</a></li>
                                 <li class="nav-item"><a href="index.php#services" class="page-scroll">Szolgáltatások</a></li>
-                                <li class="nav-item"><a href="#packages" class="page-scroll">Csomagjaink</a></li>
+                                <li class="nav-item"><a href="index.php#packages" class="page-scroll">Csomagjaink</a></li>
                                 <li class="nav-item"><a href="index.php#faq" class="page-scroll">Nyomtatási tippek</a></li>
                                 <li class="nav-item"><a href="uzleteink-kapcsolat.php">Üzleteink</a></li>
                             </ul>
