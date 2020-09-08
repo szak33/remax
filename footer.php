@@ -80,7 +80,7 @@
                     </ul>
                     <ul class="footer-links text-center mt-4">
                             <li><a href="adatkezelesi-tajekoztato.php">Adatkezelési tájékoztató</a></li>
-                            <li><a href="kiurult-festekkazetta-felvasarlas.php">Kiürült festékkazetta felvásárlás</a></li>                        
+                            <!-- <li><a href="kiurult-festekkazetta-felvasarlas.php">Kiürült festékkazetta felvásárlás</a></li> -->                        
                         </ul>
                 </div>
 
