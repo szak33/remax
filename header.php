@@ -15,7 +15,7 @@
 	<meta property="og:type" content="blog"/>
 	<meta property="og:title" content="Tintapatron tonerkazetta"/>
 	<meta property="og:url" content="http://remaxhungary.hu/"/>
-	<meta property="og:image" content="http://remaxhungary.hu/images/logo.png"/>
+	<meta property="og:image" content="http://remaxhungary.hu/images/og-image.png"/>
 
 	<meta name="description" content="Tintapatron, tonerkazetta - Várjuk kedves Vásárlóinkat Debrecenben és Nyíregyházán, a Tesco Üzletsorán." />
 	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
@@ -103,6 +103,7 @@
                                 <li class="nav-item"><a href="index.php#search" class="page-scroll">Termékkereső</a></li>
                                 <li class="nav-item"><a href="index.php#about" class="page-scroll">Cégünkről</a></li>
                                 <li class="nav-item"><a href="index.php#services" class="page-scroll">Szolgáltatások</a></li>
+                                <li class="nav-item"><a href="#packages" class="page-scroll">Csomagjaink</a></li>
                                 <li class="nav-item"><a href="index.php#faq" class="page-scroll">Nyomtatási tippek</a></li>
                                 <li class="nav-item"><a href="uzleteink-kapcsolat.php">Üzleteink</a></li>
                             </ul>

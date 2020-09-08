@@ -10,7 +10,7 @@
     <meta property="og:type" content="blog"/>
     <meta property="og:title" content="Tintapatron tonerkazetta"/>
     <meta property="og:url" content="http://remaxhungary.hu/"/>
-    <meta property="og:image" content="http://remaxhungary.hu/images/logo.png"/>
+    <meta property="og:image" content="http://remaxhungary.hu/images/og-image.png"/>
 
     <meta name="description" content="Tintapatron, tonerkazetta - Várjuk kedves Vásárlóinkat Debrecenben és Nyíregyházán, a Tesco Üzletsorán." />
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
@@ -98,6 +98,7 @@
                                 <li class="nav-item"><a href="#search" class="page-scroll">Termékkereső</a></li>
                                 <li class="nav-item"><a href="#about" class="page-scroll">Cégünkről</a></li>
                                 <li class="nav-item"><a href="#services" class="page-scroll">Szolgáltatások</a></li>
+                                <li class="nav-item"><a href="#packages" class="page-scroll">Csomagjaink</a></li>
                                 <li class="nav-item"><a href="#faq" class="page-scroll">Nyomtatási tippek</a></li>
                                 <li class="nav-item"><a href="uzleteink-kapcsolat.php">Üzleteink</a></li>
                             </ul>
@@ -309,6 +310,90 @@
         </div> <!-- container -->
     </section>
     <!-- Services Ends -->
+
+
+   
+    <!-- Packages Start -->
+    <section id="packages" class="section pt-4 bg-light">
+        <div class="container">
+            <div class="title-block mx-auto">
+                <div class="section_title mb-4 text-center">
+                    <h2>Csomagjaink</h2>
+                    <p class="section_subtitle mx-auto">Nyomtató csomagjaink minden területre, magánszemélyeknek, kis- és nagyvállalatoknak</p>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="single-packages mt-4 wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1.5s">
+                        <div class="packages-header text-center">
+                            <h5 class="sub-title">Otthoni</h5>
+                            <span class="price">19.990 Ft</span>
+                        </div>
+                        <div class="author-image">
+                                <img src="images/printer-package.jpg" alt="author">
+                            </div>
+                        <div class="packages-list mt-4">
+                            <ul>
+                                <li><i class="lni lni-arrow-right-circle"></i> Nyomtató</li>
+                                <li><i class="lni lni-arrow-right-circle"></i> Patron</li>
+                                <li><i class="lni lni-arrow-right-circle"></i> Lap</li>                                
+                            </ul>
+                        </div>
+                        <div class="mt-4 text-center">
+                            <a class="main-btn" href="#">Érdekel</a>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="single-packages pro mt-4 wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1.5s">
+                        <div class="packages-header text-center">
+                            <h5 class="sub-title">Kis Cégeknek</h5>
+                            <span class="price">49.990 Ft</span>                            
+                        </div>
+                        <div class="author-image">
+                                <img src="images/printer-package.jpg" alt="author">
+                            </div>
+                        <div class="packages-list mt-4">
+                            <ul>
+                                <li><i class="lni lni-arrow-right-circle"></i> Nyomtató</li>
+                                <li><i class="lni lni-arrow-right-circle"></i> Patron</li>
+                                <li><i class="lni lni-arrow-right-circle"></i> Lap</li>   
+                            </ul>
+                        </div>
+                        <div class="mt-4 text-center">
+                            <a class="main-btn" href="#">Érdekel</a>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="single-packages mt-4 wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="1.5s">
+                        <div class="packages-header text-center">
+                            <h5 class="sub-title">Nagy Vállalatoknak</h5>
+                            <span class="price">89.990 Ft</span>                            
+                        </div>
+                        <div class="author-image">
+                                <img src="images/printer-package.jpg" alt="author">
+                            </div>
+                        <div class="packages-list mt-4">
+                            <ul>
+                                <li><i class="lni lni-arrow-right-circle"></i> Nyomtató</li>
+                                <li><i class="lni lni-arrow-right-circle"></i> Patron</li>
+                                <li><i class="lni lni-arrow-right-circle"></i> Lap</li>
+                            </ul>
+                        </div>
+                        <div class="mt-4 text-center">
+                            <a class="main-btn" href="#">Érdekel</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Packages Ends -->
+
+
     
     <!-- Testimonial Start -->
     <section id="testimonial" class="section testimonial-area">
