@@ -15,6 +15,7 @@
     <meta property="og:image:height" content="315">
     <meta property="og:description" content="Várjuk kedves Vásárlóinkat Debrecenben és Nyíregyházán, a Tesco Üzletsorán">
     
+    <link rel="author" href="https://korallcode.hu" />
 
     <meta name="description" content="Tintapatron, tonerkazetta - Várjuk kedves Vásárlóinkat Debrecenben és Nyíregyházán, a Tesco Üzletsorán." />
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
