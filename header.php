@@ -12,10 +12,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta property="og:site_name" content="Remax Hungary"/>
-	<meta property="og:type" content="blog"/>
-	<meta property="og:title" content="Tintapatron tonerkazetta"/>
-	<meta property="og:url" content="http://remaxhungary.hu/"/>
-	<meta property="og:image" content="http://remaxhungary.hu/images/og-image.png"/>
+    <meta property="og:type" content="blog"/>
+    <meta property="og:title" content="Tintapatron tonerkazetta"/>
+    <meta property="og:url" content="http://remaxhungary.hu/"/>
+    <meta property="og:image" content="http://remaxhungary.hu/images/og-image.jpg"/>
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="315">
+    <meta property="og:description" content="Várjuk kedves Vásárlóinkat Debrecenben és Nyíregyházán, a Tesco Üzletsorán">
 
 	<meta name="description" content="Tintapatron, tonerkazetta - Várjuk kedves Vásárlóinkat Debrecenben és Nyíregyházán, a Tesco Üzletsorán." />
 	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />

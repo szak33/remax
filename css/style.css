@@ -476,6 +476,7 @@ p {
 .banner-image{
     z-index: -1;
 }
+
 .home_area {
     position: relative;
     background: #184891;
@@ -1052,7 +1053,7 @@ p.form-message.error {
 /*==========================
         14.RESPONSIVE
 ============================*/
-@media (max-width: 1199px) {
+@media only screen and (max-width: 1199px) {
 
     .container {
         max-width: 100%;
@@ -1177,7 +1178,7 @@ p.form-message.error {
 
     .navbar-area .navbar .navbar-nav .nav-item.active > a, .navbar-area .navbar .navbar-nav .nav-item:hover > a {
         color: #333333;
-    }
+    }    
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
@@ -1191,7 +1192,6 @@ p.form-message.error {
         font-size: 48px;
         line-height: 1.25;
     }
-
 }
 
 /*==========================

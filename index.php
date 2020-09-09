@@ -10,7 +10,11 @@
     <meta property="og:type" content="blog"/>
     <meta property="og:title" content="Tintapatron tonerkazetta"/>
     <meta property="og:url" content="http://remaxhungary.hu/"/>
-    <meta property="og:image" content="http://remaxhungary.hu/images/og-image.png"/>
+    <meta property="og:image" content="http://remaxhungary.hu/images/og-image.jpg"/>
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="315">
+    <meta property="og:description" content="Várjuk kedves Vásárlóinkat Debrecenben és Nyíregyházán, a Tesco Üzletsorán">
+    
 
     <meta name="description" content="Tintapatron, tonerkazetta - Várjuk kedves Vásárlóinkat Debrecenben és Nyíregyházán, a Tesco Üzletsorán." />
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
@@ -114,22 +118,47 @@
     <!-- Navbar Ends -->
     <!-- home Start -->
     <section id="home" class="home_area">
-        <div class="home-content">
-            <div class="container-fluid px-0">
-                <div class="row no-gutters">
-                    <div class="col-lg-4 offset-1">
-                        <div class="wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="1s">
-                            <h1 class="title">Tintapatron, tonerkazetta töltőállomás</h1>
-                            <p class="text">Keressen a széleskörű festékkazetta és toner kínálatunkban,<br>találja meg az Ön számára megfelelő megoldást!</p>
-                            <div class="mt-4"><a class="main-btn page-scroll" href="#search">Tovább</a></div>
+        <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+                <div class="home-content">
+                    <div class="container-fluid px-0">
+                        <div class="row no-gutters">
+                            <div class="col-lg-4 offset-1">
+                                <!-- <div class="wow fadeInUp" data-wow-delay="0.9s" data-wow-duration="1s"> -->
+                                    <h1 class="title">Tintapatron, tonerkazetta töltőállomás</h1>
+                                    <p class="text">Keressen a széleskörű festékkazetta és toner kínálatunkban,<br>találja meg az Ön számára megfelelő megoldást!</p>
+                                    <div class="mt-4"><a class="main-btn page-scroll" href="#search">Tovább</a></div>
+                                <!-- </div> -->
+                            </div>
+                            <div class="col-lg-7">
+                                <img src="images/banner-image.png" class="banner-image" alt="banner-image">
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-lg-7">
-                        <img src="images/banner-image.png" class="banner-image" alt="banner-image">
                     </div>
                 </div>
             </div>
+            <div class="carousel-item">
+              <div class="home-content">
+                <div class="container-fluid px-0">
+                    <div class="row no-gutters">
+                        <div class="col-lg-4 offset-1">
+                            <!-- <div class="wow fadeInLeft" data-wow-delay="0.9s" data-wow-duration="1s"> -->
+                                <h1 class="title">Tintapatron, tonerkazetta töltőállomás</h1>
+                                <p class="text">Keressen a széleskörű festékkazetta és toner kínálatunkban,<br>találja meg az Ön számára megfelelő megoldást!</p>
+                                <div class="mt-4"><a class="main-btn page-scroll" href="#search">Tovább</a></div>
+                            <!-- </div> -->
+                        </div>
+                        <div class="col-lg-7">
+                            <img src="images/banner-image-2.png" class="banner-image" alt="banner-image-2">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>            
+          </div>
         </div>
+        
         <div class="scroll-next">
             <a href="#search" class="page-scroll"><img src="images/down-arrow.png" class="img-fluid" alt=""></a>
         </div>
