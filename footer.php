@@ -71,6 +71,7 @@
                         </div>
                     </div>
                     
+                    
 
                     <ul class="social text-center mt-4">
                         <li><a href="https://facebook.com/"><i class="lni lni-facebook-filled"></i></a></li>
@@ -78,17 +79,25 @@
                         <li><a href="https://instagram.com/"><i class="lni lni-instagram-original"></i></a></li>
                         <li><a href="#"><i class="lni lni-linkedin-original"></i></a></li>
                     </ul>
+
+                    <div class="col-lg-12">
+                        <div class="copyright text-center mt-4">
+                            <p class="text mb-2">Partnerünk:</p>
+                            <a href="https://huskeebike.eu" title="Huskee Bike Debrecen" target="_blank">
+                                <img src="images/huskee-white.png" alt="Huskee Bike Debrecen">
+                            </a>
+                        </div>
+                    </div>   
+                    
                     <ul class="footer-links text-center mt-4">
-                            <li><a href="adatkezelesi-tajekoztato.php">Adatkezelési tájékoztató</a></li>
-                            <!-- <li><a href="kiurult-festekkazetta-felvasarlas.php">Kiürült festékkazetta felvásárlás</a></li> -->                        
-                        </ul>
+                        <li class="text-light">&copy;<script>document.write(new Date().getFullYear())</script> Remax Hungary.</li>
+                        <li><a href="adatkezelesi-tajekoztato.php">Adatkezelési tájékoztató</a></li>
+                        <!-- <li><a href="kiurult-festekkazetta-felvasarlas.php">Kiürült festékkazetta felvásárlás</a></li> -->
+
+                    </ul>
                 </div>
 
-                <div class="col-lg-12">
-                    <div class="copyright text-center mt-4">
-                        <p class="text">&copy;<script>document.write(new Date().getFullYear())</script> Remax Hungary</p>
-                    </div>
-                </div>                    
+                                 
 
             </div>
         </div>

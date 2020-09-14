@@ -402,13 +402,13 @@ p {
                     background: linear-gradient(to right,#fe8464 0%,#fe6e9a 50%,#fe8464 100%);
                     background-size: 200%;
                     border-radius: 50px;
-                    border: 2px solid #fe7856;
+                    border: 2px solid #f15a24;
                 }
 
                     .navbar-area .navbar .navbar-btn li a.solid:hover {
                         background: #fff;
-                        color: #fe7856;
-                        border: 2px solid #fe7856;
+                        color: #f15a24;
+                        border: 2px solid #f15a24;
                     }
 
     .navbar-area.sticky {
@@ -978,7 +978,7 @@ p.form-message.error {
     }
 
         .footer-area .social li a:hover {
-            color: #fe6e9a;
+            color: #f15a24;
         }
 
 
@@ -988,7 +988,7 @@ p.form-message.error {
 }
 
     .footer-area .footer-links li a {
-        font-size: 14px;
+        font-size: 1rem;
         color: #fff;
         transition: all 0.3s ease-out 0s;
     }
