@@ -72,7 +72,7 @@
                 </div>
                 <div class="col-md-6 col-sm-12">
                     <div class="mt-4 about-image text-center wow fadeInRightBig" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInRightBig;">
-                        <img src="https://place-hold.it/500x500" alt="about">
+                        <img src="images/remax-debrecen.jpg" alt="Remax Üzlet Debrecen Tesco">
                     </div>
                 </div>
             </div>
@@ -118,7 +118,7 @@
             <div class="row align-items-center">
                 <div class="col-md-6 col-sm-12">
                     <div class="mt-4 about-image text-center wow fadeInRightBig" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInRightBig;">
-                        <img src="https://place-hold.it/500x500" alt="about">
+                        <img src="images/remax-nyiregyhaza.jpg" alt="Remax Üzlet Nyíregyháza Tesco">
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-12">

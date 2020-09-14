@@ -84,7 +84,7 @@
                         <div class="copyright text-center mt-4">
                             <p class="text mb-2">Partnerünk:</p>
                             <a href="https://huskeebike.eu" title="Huskee Bike Debrecen" target="_blank">
-                                <img src="images/huskee-white.png" alt="Huskee Bike Debrecen">
+                                <img src="images/huskee-white.png" alt="Huskee Bike Debrecen - Elektromos roller, elektromos kerékpár, elektromos motor szaküzlet">
                             </a>
                         </div>
                     </div>   
